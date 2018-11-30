@@ -1,8 +1,8 @@
 {
-  "name": "html5_entities_es6",
+  "name": "html5entitieses6",
   "version": "1.0.0",
   "description": "Code is same as https://www.npmjs.com/package/html-entities but uses the ES6 import method rather than module.exports.  Note: I only used html5-entities.",
-  "main": "html5_entities_es6.js",
+  "main": "html5entitieses6.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
