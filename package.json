@@ -1,6 +1,6 @@
 {
-  "name": "html5entitieses6",
-  "version": "1.0.1",
+  "name": "html5-entities-es6",
+  "version": "1.0.2",
   "description": "Code is same as https://www.npmjs.com/package/html-entities but uses the ES6 import method rather than module.exports.  Note: I only used html5-entities.",
   "main": "html5entitieses6.js",
   "scripts": {
