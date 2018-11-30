@@ -1,0 +1,25 @@
+{
+  "name": "html5-entities-es6",
+  "version": "1.0.0",
+  "description": "Code is same as https://www.npmjs.com/package/html-entities but uses the ES6 import method rather than module.exports.  Note: I only used html5-entities.",
+  "main": "html5-entities.mjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/avcoder/html5-entities-es6.git"
+  },
+  "keywords": [
+    "es6",
+    "import",
+    "html",
+    "entities"
+  ],
+  "author": "avcoder <code.rom7.6@gmail.com> (https://github.com/avcoder/html5-entities-es6)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/avcoder/html5-entities-es6/issues"
+  },
+  "homepage": "https://github.com/avcoder/html5-entities-es6#readme"
+}
