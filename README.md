@@ -1,7 +1,7 @@
 # Usage
 
-See https://www.npmjs.com/package/html5entitieses6
-Can be used in modern browsers that use ES6 import.
+- See https://www.npmjs.com/package/html5entitieses6
+- Can be used in modern browsers that use ES6 import.
 
 ```html
 <body>
